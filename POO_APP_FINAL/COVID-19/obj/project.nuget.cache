@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QmkEabk6k3L24b/bUTd2EvBII3nEdFIOKVQuhB5A/QNGY9aDGA4/DYW+0TSXuj57TpIhOTCFCJQWKyGFCPU14g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\35191\\Desktop\\POO_APP_FINAL\\COVID-19\\COVID-19.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\35191\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
